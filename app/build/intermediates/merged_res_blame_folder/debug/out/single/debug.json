@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_network_connection.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_network_connection.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uvc_exclude.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uvc_exclude.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_simple_camera_gl.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_simple_camera_gl.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_video_playback.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_video_playback.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_dummy_source.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_dummy_source.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uac.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uac.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_mix.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_mix.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_progress_view.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_progress_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_usb.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_usb.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_galley2.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_galley2.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_surfaceview.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_surfaceview.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_media.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\grid_item_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_texture_view.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_texture_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_title.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\list_item_title.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_galley.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_galley.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_simple_video_source_camera.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_simple_video_source_camera.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recording_service.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\drawable\\ic_recording_service.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_image_view.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_image_view.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_screen_capture.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_screen_capture.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uvc_exclude_intf.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uvc_exclude_intf.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_safutils.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_safutils.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_list.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_viewslider_constraint.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_viewslider_constraint.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_distributor.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_distributor.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_effect.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_effect.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings_link.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_settings_link.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_saf_filer.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_saf_filer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_permission.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_permission.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_viewslider.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_viewslider.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_image.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_image.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_numberkeyboard.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_numberkeyboard.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_overlay.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_overlay.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uvc.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uvc.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_battery_std_24.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\drawable\\ic_baseline_battery_std_24.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera_video_source.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\layout\\fragment_camera_video_source.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uvc_intf.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uvc_intf.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Valor\\libcommon\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter_uac_intf.xml.flat",
+        "source": "D:\\Workspace\\Valor\\libcommon\\app\\src\\main\\res\\xml\\device_filter_uac_intf.xml"
+    }
+]
