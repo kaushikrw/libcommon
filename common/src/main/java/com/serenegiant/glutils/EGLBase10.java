@@ -42,7 +42,8 @@ import com.serenegiant.system.BuildCheck;
  * 直接インスタンス生成せずにEGLBaseのヘルパーメソッドを使うこと
  * XXX EGLBaseの中かinternalsパッケージに移動するかも
  */
-/*package*/ class EGLBase10 extends EGLBase {
+/*package*/
+public class EGLBase10 extends EGLBase {
 	private static final boolean DEBUG = false;	// FIXME set false on release
 	private static final String TAG = EGLBase10.class.getSimpleName();
 

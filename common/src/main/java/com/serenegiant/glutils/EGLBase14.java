@@ -43,7 +43,8 @@ import androidx.annotation.RequiresApi;
  * XXX EGLBaseの中かinternalsパッケージに移動するかも
  */
 @RequiresApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
-/*package*/ class EGLBase14 extends EGLBase {	// API >= 17
+/*package*/
+public class EGLBase14 extends EGLBase {	// API >= 17
 	private static final boolean DEBUG = false;	// TODO set false on release
 	private static final String TAG = EGLBase14.class.getSimpleName();
 

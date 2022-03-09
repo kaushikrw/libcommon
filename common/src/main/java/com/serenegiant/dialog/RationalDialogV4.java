@@ -41,7 +41,7 @@ import androidx.fragment.app.FragmentActivity;
 
 /**
  * パーミッション要求前に説明を表示するためのDialogFragment実装
- * PermissionDescriptionDialogV4と違ってこちらは要求コードを使わない(permissionsの文字列で判別)
+ * と違ってこちらは要求コードを使わない(permissionsの文字列で判別)
  */
 public class RationalDialogV4 extends DialogFragmentEx {
 	private static final boolean DEBUG = false;	// FIXME 実働時はfalseにすること

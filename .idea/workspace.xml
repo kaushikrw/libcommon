@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f8501-cc7f-4f7f-bc99-f5b4016f7cb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/libcommon.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/libcommon.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/common/libcommon.common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/libcommon.common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/dialog/RationalDialogV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/dialog/RationalDialogV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/glutils/EGLBase10.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/glutils/EGLBase10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/glutils/EGLBase14.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/serenegiant/glutils/EGLBase14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[b6e517f6605b5867]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libcommon" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libcommon" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libcommon" type="f1a62948:ProjectNode" />
+                <item name="common" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,9 +67,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-viewD:/Workspace/Valor/libcommon/app/src/main/java/com/serenegiant/widget/CameraGLSurfaceView.kt_SELECTED" value="CameraGLSurfaceView" />
+    <property name="android-custom-viewD:/Workspace/Valor/libcommon/app/src/main/java/com/serenegiant/widget/DistributorCameraGLSurfaceView.kt_DistributorCameraGLSurfaceView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewD:/Workspace/Valor/libcommon/app/src/main/java/com/serenegiant/widget/DistributorCameraGLSurfaceView.kt_SELECTED" value="DistributorCameraGLSurfaceView" />
+    <property name="android-custom-viewD:/Workspace/Valor/libcommon/app/src/main/java/com/serenegiant/widget/VideoSourceCameraGLView.kt_SELECTED" value="VideoSourceCameraGLView" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --parallel" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="libcommon.app" />
       <option name="DEPLOY" value="true" />
@@ -93,6 +139,30 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="libcommon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--parallel" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.libcommon" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
